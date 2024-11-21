@@ -1,0 +1,30 @@
+.titleNav {
+    /* border:solid red; */
+    height: 42px;
+    font-size: 24px;
+    text-align: center;
+    color: black;
+}
+
+#AfricanSculpture {
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    background-color: black;
+    background-image: url("_P3A0290-2.jpg");
+    background-size: cover;
+}
+
+.bodyContainer1 {
+    background-color: black;
+}
+.imageLanding {
+    display:flex;
+    justify-content: space-between;
+    margin: 9em;
+    margin-top: 21em;
+   
+}
+

@@ -1,0 +1,71 @@
+body {
+    background-color: black;
+}
+
+.titleNav {
+    color: white;
+    text-align: center;
+    font-size: x-large;
+}
+
+.imageContainer {
+    /* border:solid rebeccapurple; */
+    height: auto;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+  
+
+}
+
+.imageItem {
+    /* border:solid orange; */
+    height: auto;
+    width: auto;
+    margin: 2em;
+    margin-right: 3em;
+    padding: 3em;
+    justify-content: space-around;
+    color: orange;
+}
+
+img {
+    height: 200vh;
+    width: auto;
+    margin-right: 4em;
+    justify-content: space-around;
+    
+}
+
+.lyricsContainer {
+    color:green;
+}
+p {
+    text-align: center;
+}
+
+.bioContainer {
+    /* border:solid salmon; */
+    padding-left: 10em;
+    color: yellow;
+    text-align: center;
+    margin-right: 8em;
+}
+
+/* #biopic {
+    border:solid red;
+} */
+
+pre {
+    text-align: center;
+    margin-right: 9em;
+}
+
+table {
+    text-align: center;
+}
+
+.pricingContainer {
+    color: brown;
+    text-align: center;
+}
